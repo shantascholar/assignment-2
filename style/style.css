@@ -511,5 +511,12 @@ main features section style
     
     }
 
+    .contact-info{
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        gap: 3px;
+    }
+
     
 }
