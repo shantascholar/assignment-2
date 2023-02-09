@@ -113,7 +113,7 @@ main features section style
     height: 70%;
     display: flex;
     align-items: center;
-     gap: 23px; 
+     gap: 49px; 
 } 
 
    .features-images  img{
@@ -125,7 +125,7 @@ main features section style
 
  .features-images{
     display: grid; 
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 2fr);
     width: 50%;
     row-gap: 13px;
     
